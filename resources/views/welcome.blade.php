@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Proyecto0
+                    Proyecto0 en Laravel con git
                 </div>
 
                 <div class="links">
